@@ -1,0 +1,10 @@
+1.) Posibilidad de añadir un grafo por el usuario
+	-la estructura ya se encuentra ahi solo es necesario  (TamGrafo se debe de cambiar)
+
+2) Incrementar el numero de funciones para disminuir la inflacion de codigo
+	-gran parte de los ciclos puede ser reducido a funciones lo que haria el codigo mas facil de trabajar y analizar
+
+3) Modificar variables globales y hacerlas locales
+
+4) reducir numero de listas (vectores) y eficientar su uso
+

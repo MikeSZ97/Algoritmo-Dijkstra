@@ -10,6 +10,7 @@ Ultima edicion: 11/OCTUBRE/2019 1:10 PM
 
 Ejecutable en Algoritmo-Dijkstra/Dijkstra/Release/Dijkstra.exe
 
+Reporte: Reporte.pdf
 
 
 FUENTES
