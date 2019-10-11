@@ -1,0 +1,5 @@
+﻿  Dijkstra.cpp
+C:\Users\migex\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(88): warning C4715: 'obtenerLetra': no todas las rutas de acceso de control devuelven un valor
+C:\Users\migex\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(62): warning C4715: 'DondeEsta': no todas las rutas de acceso de control devuelven un valor
+C:\Users\migex\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(49): warning C4715: 'EncontrarPeso': no todas las rutas de acceso de control devuelven un valor
+  Dijkstra.vcxproj -> C:\Users\migex\source\repos\Dijkstra\Debug\Dijkstra.exe

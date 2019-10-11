@@ -1,0 +1,9 @@
+﻿  Dijkstra.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\migex\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(88): warning C4715: 'obtenerLetra': no todas las rutas de acceso de control devuelven un valor
+C:\Users\migex\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(62): warning C4715: 'DondeEsta': no todas las rutas de acceso de control devuelven un valor
+C:\Users\migex\source\repos\Dijkstra\Dijkstra\Dijkstra.cpp(49): warning C4715: 'EncontrarPeso': no todas las rutas de acceso de control devuelven un valor
+  All 219 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Dijkstra.vcxproj -> C:\Users\migex\source\repos\Dijkstra\Release\Dijkstra.exe
