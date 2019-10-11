@@ -278,7 +278,8 @@ int main()
 	
 	cout << " Con un costo total de : " << Etiquetados[DondeEsta(PosFin)].pesoT;
 
-
+	cout << "\n\n\nPresiona Enter para Salir";
+	cin.ignore();
 	return 0;
 
 }
